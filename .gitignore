@@ -1,6 +1,8 @@
+Release
+Bin
 build/
 DerivedData/
-
+.DS_STORE
 *.pbxuser
 !default.pbxuser
 *.mode1v3
